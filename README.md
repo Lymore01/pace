@@ -1,1 +1,1 @@
-# Redis client from scratch
+# Redis client
